@@ -1,3 +1,4 @@
+# https://learn.microsoft.com/en-us/training/modules/django-get-started/9-summary#completion
 from pathlib import Path
 import os
 
@@ -27,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'mmapp.apps.MmappConfig'
 ]
 
 MIDDLEWARE = [

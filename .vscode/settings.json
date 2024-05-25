@@ -1,0 +1,11 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "files.exclude": {
+        "__init__.py": true,
+        ".gitignore": true,
+        "LICENSE": true,
+        "desktop.ini": true,
+    },
+    "workbench.tree.indent": 28,
+}
+
