@@ -8,4 +8,4 @@ CSRF_TRUSTED_ORIGINS = ['https://'+ os.environ['WEBSITE_HOSTNAME']] if 'WEBSITE_
     # Enables whitenoise for serving static files
     'whitenoise.middleware.WhiteNoiseMiddleware',
 
-https://learn.microsoft.com/en-us/training/modules/django-get-started/5-exercise-first-project
+https://learn.microsoft.com/en-us/training/modules/django-get-started/
